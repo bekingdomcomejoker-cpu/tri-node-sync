@@ -1,0 +1,8 @@
+
+# Termux local runtime data and secrets
+.runtime/
+*.local
+.env
+logs/
+backups/
+__pycache__/
