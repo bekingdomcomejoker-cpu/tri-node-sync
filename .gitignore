@@ -6,3 +6,7 @@
 logs/
 backups/
 __pycache__/
+
+# Device-local MikroTik SSH configuration and pinned host keys
+mikrotik_ssh_config
+mikrotik_known_hosts
