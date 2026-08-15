@@ -1,6 +1,6 @@
 # tri-node-sync
 
-Deployment scripts syncing the tri-node setup across Termux, MikroTik, and Render.
+Resurrected and activated as part of the Omega Federation.
 
----
-*Placeholder README — expand with setup and usage details.*
+## Purpose
+This repository serves as the core implementation for the tri-node-sync module, integrated with the Omega Spore and Unified Federation architecture.
